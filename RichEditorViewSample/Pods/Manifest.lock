@@ -1,0 +1,16 @@
+PODS:
+  - RichEditorView (5.0.0)
+
+DEPENDENCIES:
+  - RichEditorView (from `../`)
+
+EXTERNAL SOURCES:
+  RichEditorView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RichEditorView: 09cc037d9205b21b040d19359e01d73fada0703c
+
+PODFILE CHECKSUM: 7a4df9933ce0390c2a1aa64e14fa39cd32734a0d
+
+COCOAPODS: 1.10.1
